@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Hang On",
+  "base_artist": "Seether",
+  "createdAt": "2026-02-17T11:41:25.250366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hang On To Your Heart",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/01_Hang_On_To_Your_Heart_Exile.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hang On In There",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": true,
+      "path": "select/02_Hang_On_In_There_John_Legend_feat._The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hang On In There",
+      "artist": "John Legend & The Roots",
+      "has_synced": true,
+      "path": "select/03_Hang_On_In_There_John_Legend_&_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hang On to Yourself - Live",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/04_Hang_On_to_Yourself_-_Live_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hang On To Yourself",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/05_Hang_On_To_Yourself_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hang On To Yourself",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Hang_On_To_Yourself_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hang On To Yourself",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Hang_On_To_Yourself_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hang On To Yourself - Arnold Corns Version; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Hang_On_To_Yourself_-_Arnold_Corns_Version;_2002_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hang On To Yourself (Arnold Corns Version)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_Hang_On_To_Yourself_(Arnold_Corns_Version)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hang on to Your IQ",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/10_Hang_on_to_Your_IQ_Placebo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hang on To Your IQ",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/11_Hang_on_To_Your_IQ_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hang On In There",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/12_Hang_On_In_There_Queen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hang On to Me Tonight",
+      "artist": "Mick Jagger",
+      "has_synced": true,
+      "path": "select/13_Hang_On_to_Me_Tonight_Mick_Jagger.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hang On To Me Tonight (LP Version)",
+      "artist": "Mick Jagger",
+      "has_synced": true,
+      "path": "select/14_Hang_On_To_Me_Tonight_(LP_Version)_Mick_Jagger.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hang On Now",
+      "artist": "Kajagoogoo",
+      "has_synced": true,
+      "path": "select/15_Hang_On_Now_Kajagoogoo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hang On Now (Extended Version)",
+      "artist": "Kajagoogoo",
+      "has_synced": false,
+      "path": "select/16_Hang_On_Now_(Extended_Version)_Kajagoogoo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hang on to Each Other",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": true,
+      "path": "select/17_Hang_on_to_Each_Other_A_Silver_Mt._Zion.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hang on 2 Your Love",
+      "artist": "Sam Sparro feat. Durand Bernarr",
+      "has_synced": false,
+      "path": "select/18_Hang_on_2_Your_Love_Sam_Sparro_feat._Durand_Bernarr.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hang On",
+      "artist": "Seether",
+      "has_synced": false,
+      "path": "select/pl_01_Hang_On_Seether.txt"
+    }
+  ]
+}
